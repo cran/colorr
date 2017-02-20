@@ -1,0 +1,14 @@
+2e925c59e659e0fb16f122a6fa36bd23 *DESCRIPTION
+db26ccab8c45001778cefd2e5a3dd9d9 *LICENSE
+425542f42e1dc929ba29ddae154ff19d *NAMESPACE
+7db7e1de135cd574afa25b2841306503 *R/eplcolors.r
+ccb88a3471892cd6d0d51a1c89c9e341 *R/mlbcolors.r
+b33daaec61bf4d655fdc1577544e6ec4 *R/nbacolors.r
+ac0745dade06d0dd8cd3c9dbadc5f7ca *R/nflcolors.r
+babc01108ca9f6007c1f8819d2813e59 *R/nhlcolors.r
+de14f660cfb2802e27c3821d6b6e3014 *README.md
+9169865b8452426096bfcb852bb710ed *man/epl.colors.Rd
+5ed828db4325a9bb92c77aee08cc18c7 *man/mlb.colors.Rd
+94929adcbc723178ee32407f56ccc126 *man/nba.colors.Rd
+3f3df31dad9022d4f6f5f0905c1332dd *man/nfl.colors.Rd
+6bcb10e6dd25bb05fa759a3579cbdd80 *man/nhl.colors.Rd
